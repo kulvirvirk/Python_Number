@@ -29,3 +29,6 @@ print('remainder is: ' + str(mod))
 
 div = x//y #quotient of a division
 print('quotient is: ' + str(div))
+
+print(round(4.5))
+print(abs(-20))
