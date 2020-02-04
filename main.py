@@ -11,8 +11,8 @@ print('difference is: ' + str(substraciton))
 
 multiplication = x * y 
 print('multiplication is: {:0.2f}'.format( multiplication))
-#output is formated 
-#Where:
+# output is formated 
+# Where:
 # : introduces the format spec
 # 0 enables sign-aware zero-padding for numeric types
 # .2 sets the precision to 2
