@@ -2,6 +2,8 @@
 x = 6
 y = 2.2 
 
+print('x = 6 \ny = 2.2\n')
+
 #perform some math functions
 sum = x + y;
 print('sum is: ' + str(sum))
